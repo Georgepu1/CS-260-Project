@@ -1,0 +1,808 @@
+--NEW TYPE: RANDOM FOREST--
+Current ratio: 0.0 and current complexity: 5
+trial: 0, train acc: 0.9885833333333334, test acc: 0.8792
+trial: 1, train acc: 0.989375, test acc: 0.87925
+trial: 2, train acc: 0.9895555555555555, test acc: 0.8793333333333333
+trial: 3, train acc: 0.9898958333333333, test acc: 0.87905
+trial: 4, train acc: 0.9900166666666668, test acc: 0.87888
+Current ratio: 0.2 and current complexity: 5
+trial: 0, train acc: 0.9651666666666666, test acc: 0.7978
+trial: 1, train acc: 0.9640833333333333, test acc: 0.7976
+trial: 2, train acc: 0.9635277777777778, test acc: 0.7998666666666666
+trial: 3, train acc: 0.9633541666666666, test acc: 0.8
+trial: 4, train acc: 0.9627333333333332, test acc: 0.7995800000000001
+Current ratio: 0.4 and current complexity: 5
+trial: 0, train acc: 0.9445833333333333, test acc: 0.6773
+trial: 1, train acc: 0.94625, test acc: 0.67425
+trial: 2, train acc: 0.9464444444444444, test acc: 0.6744333333333333
+trial: 3, train acc: 0.944875, test acc: 0.67675
+trial: 4, train acc: 0.9443666666666667, test acc: 0.6785599999999999
+Current ratio: 0.6 and current complexity: 5
+trial: 0, train acc: 0.9331666666666667, test acc: 0.5122
+trial: 1, train acc: 0.9347916666666667, test acc: 0.5056
+trial: 2, train acc: 0.9343888888888889, test acc: 0.5055000000000001
+trial: 3, train acc: 0.935625, test acc: 0.50395
+trial: 4, train acc: 0.93625, test acc: 0.50546
+Current ratio: 0.0 and current complexity: 10
+trial: 0, train acc: 0.999, test acc: 0.9201
+trial: 1, train acc: 0.9990416666666666, test acc: 0.92065
+trial: 2, train acc: 0.9991666666666665, test acc: 0.9185
+trial: 3, train acc: 0.9991666666666665, test acc: 0.91795
+trial: 4, train acc: 0.9991333333333332, test acc: 0.9179
+Current ratio: 0.2 and current complexity: 10
+trial: 0, train acc: 0.9861666666666666, test acc: 0.8826
+trial: 1, train acc: 0.9863333333333333, test acc: 0.88305
+trial: 2, train acc: 0.98625, test acc: 0.8815666666666667
+trial: 3, train acc: 0.9859583333333333, test acc: 0.8821500000000001
+trial: 4, train acc: 0.9859499999999999, test acc: 0.88236
+Current ratio: 0.4 and current complexity: 10
+trial: 0, train acc: 0.984, test acc: 0.7995
+trial: 1, train acc: 0.9847916666666667, test acc: 0.7986
+trial: 2, train acc: 0.9845833333333335, test acc: 0.8020666666666667
+trial: 3, train acc: 0.9851458333333334, test acc: 0.8024
+trial: 4, train acc: 0.9853, test acc: 0.8021800000000001
+Current ratio: 0.6 and current complexity: 10
+trial: 0, train acc: 0.9880833333333333, test acc: 0.6386
+trial: 1, train acc: 0.98775, test acc: 0.63925
+trial: 2, train acc: 0.9880555555555556, test acc: 0.6411666666666667
+trial: 3, train acc: 0.9882916666666667, test acc: 0.63725
+trial: 4, train acc: 0.9880666666666666, test acc: 0.6386999999999999
+Current ratio: 0.0 and current complexity: 15
+trial: 0, train acc: 0.9999166666666667, test acc: 0.9329
+trial: 1, train acc: 0.9997916666666666, test acc: 0.9307
+trial: 2, train acc: 0.9998055555555556, test acc: 0.9309
+trial: 3, train acc: 0.9997916666666667, test acc: 0.9316
+trial: 4, train acc: 0.99975, test acc: 0.93158
+Current ratio: 0.2 and current complexity: 15
+trial: 0, train acc: 0.9913333333333333, test acc: 0.9097
+trial: 1, train acc: 0.9924166666666667, test acc: 0.90835
+trial: 2, train acc: 0.9929444444444444, test acc: 0.9080333333333334
+trial: 3, train acc: 0.9929166666666667, test acc: 0.9083
+trial: 4, train acc: 0.9928333333333332, test acc: 0.9088
+Current ratio: 0.4 and current complexity: 15
+trial: 0, train acc: 0.99375, test acc: 0.8567
+trial: 1, train acc: 0.9939583333333333, test acc: 0.8564499999999999
+trial: 2, train acc: 0.9937499999999999, test acc: 0.8558
+trial: 3, train acc: 0.9939166666666666, test acc: 0.85465
+trial: 4, train acc: 0.99375, test acc: 0.85434
+Current ratio: 0.6 and current complexity: 15
+trial: 0, train acc: 0.9968333333333333, test acc: 0.7279
+trial: 1, train acc: 0.9969166666666667, test acc: 0.72325
+trial: 2, train acc: 0.9965277777777778, test acc: 0.7242999999999999
+trial: 3, train acc: 0.9967083333333333, test acc: 0.7236
+trial: 4, train acc: 0.99655, test acc: 0.7207600000000001
+Current ratio: 0.0 and current complexity: 20
+trial: 0, train acc: 0.9998333333333334, test acc: 0.9399
+trial: 1, train acc: 0.9998750000000001, test acc: 0.93885
+trial: 2, train acc: 0.9999166666666667, test acc: 0.9384333333333332
+trial: 3, train acc: 0.9999166666666667, test acc: 0.9379749999999999
+trial: 4, train acc: 0.9999, test acc: 0.9377799999999998
+Current ratio: 0.2 and current complexity: 20
+trial: 0, train acc: 0.9956666666666667, test acc: 0.9234
+trial: 1, train acc: 0.9954583333333333, test acc: 0.9200999999999999
+trial: 2, train acc: 0.9956944444444445, test acc: 0.9214666666666665
+trial: 3, train acc: 0.9958958333333334, test acc: 0.92185
+trial: 4, train acc: 0.9957833333333334, test acc: 0.9219799999999999
+Current ratio: 0.4 and current complexity: 20
+trial: 0, train acc: 0.9975, test acc: 0.8791
+trial: 1, train acc: 0.9970416666666667, test acc: 0.87895
+trial: 2, train acc: 0.9968333333333333, test acc: 0.8793666666666667
+trial: 3, train acc: 0.9970833333333333, test acc: 0.879675
+trial: 4, train acc: 0.99705, test acc: 0.87928
+Current ratio: 0.6 and current complexity: 20
+trial: 0, train acc: 0.99875, test acc: 0.7665
+trial: 1, train acc: 0.99875, test acc: 0.76505
+trial: 2, train acc: 0.9987499999999999, test acc: 0.7677333333333333
+trial: 3, train acc: 0.9987083333333333, test acc: 0.769125
+trial: 4, train acc: 0.9985833333333334, test acc: 0.77024
+Current ratio: 0.0 and current complexity: 25
+trial: 0, train acc: 0.9999166666666667, test acc: 0.9431
+trial: 1, train acc: 0.9999166666666667, test acc: 0.94285
+trial: 2, train acc: 0.9999444444444444, test acc: 0.9423333333333334
+trial: 3, train acc: 0.9999374999999999, test acc: 0.94275
+trial: 4, train acc: 0.9999166666666666, test acc: 0.9431200000000001
+Current ratio: 0.2 and current complexity: 25
+trial: 0, train acc: 0.99675, test acc: 0.9302
+trial: 1, train acc: 0.9972083333333334, test acc: 0.9303
+trial: 2, train acc: 0.9971666666666668, test acc: 0.9307333333333334
+trial: 3, train acc: 0.9972291666666667, test acc: 0.9301250000000001
+trial: 4, train acc: 0.9973833333333333, test acc: 0.9293000000000001
+Current ratio: 0.4 and current complexity: 25
+trial: 0, train acc: 0.99875, test acc: 0.8983
+trial: 1, train acc: 0.9988333333333334, test acc: 0.89825
+trial: 2, train acc: 0.9988055555555556, test acc: 0.8970666666666668
+trial: 3, train acc: 0.9986458333333333, test acc: 0.89685
+trial: 4, train acc: 0.9986499999999999, test acc: 0.89632
+Current ratio: 0.6 and current complexity: 25
+trial: 0, train acc: 0.9995, test acc: 0.8088
+trial: 1, train acc: 0.9995416666666668, test acc: 0.80305
+trial: 2, train acc: 0.9996111111111112, test acc: 0.8005333333333334
+trial: 3, train acc: 0.9997083333333334, test acc: 0.8013
+trial: 4, train acc: 0.9997166666666667, test acc: 0.80074
+Current ratio: 0.0 and current complexity: 30
+trial: 0, train acc: 1.0, test acc: 0.9466
+trial: 1, train acc: 1.0, test acc: 0.9459
+trial: 2, train acc: 1.0, test acc: 0.9454666666666666
+trial: 3, train acc: 0.9999791666666666, test acc: 0.945375
+trial: 4, train acc: 0.9999833333333333, test acc: 0.9453199999999999
+Current ratio: 0.2 and current complexity: 30
+trial: 0, train acc: 0.99825, test acc: 0.9335
+trial: 1, train acc: 0.9979166666666667, test acc: 0.9323
+trial: 2, train acc: 0.9980555555555556, test acc: 0.932
+trial: 3, train acc: 0.9981458333333333, test acc: 0.9324250000000001
+trial: 4, train acc: 0.9981500000000001, test acc: 0.93266
+Current ratio: 0.4 and current complexity: 30
+trial: 0, train acc: 0.9990833333333333, test acc: 0.9049
+trial: 1, train acc: 0.9990833333333333, test acc: 0.9055500000000001
+trial: 2, train acc: 0.9991944444444444, test acc: 0.9065333333333334
+trial: 3, train acc: 0.9990833333333333, test acc: 0.906325
+trial: 4, train acc: 0.9991166666666667, test acc: 0.90588
+Current ratio: 0.6 and current complexity: 30
+trial: 0, train acc: 0.9998333333333334, test acc: 0.8212
+trial: 1, train acc: 0.9998333333333334, test acc: 0.8180000000000001
+trial: 2, train acc: 0.9998333333333335, test acc: 0.8199666666666667
+trial: 3, train acc: 0.9997291666666668, test acc: 0.8203750000000001
+trial: 4, train acc: 0.9997666666666667, test acc: 0.82186
+Current ratio: 0.0 and current complexity: 35
+trial: 0, train acc: 1.0, test acc: 0.9496
+trial: 1, train acc: 1.0, test acc: 0.946
+trial: 2, train acc: 1.0, test acc: 0.9461333333333334
+trial: 3, train acc: 1.0, test acc: 0.945975
+trial: 4, train acc: 1.0, test acc: 0.9463799999999999
+Current ratio: 0.2 and current complexity: 35
+trial: 0, train acc: 0.9993333333333333, test acc: 0.9409
+trial: 1, train acc: 0.99925, test acc: 0.93825
+trial: 2, train acc: 0.9990833333333334, test acc: 0.9378333333333334
+trial: 3, train acc: 0.9991666666666668, test acc: 0.9381750000000001
+trial: 4, train acc: 0.9990833333333334, test acc: 0.9380600000000001
+Current ratio: 0.4 and current complexity: 35
+trial: 0, train acc: 0.9995, test acc: 0.9154
+trial: 1, train acc: 0.9995416666666668, test acc: 0.9145
+trial: 2, train acc: 0.9996944444444446, test acc: 0.9148333333333333
+trial: 3, train acc: 0.9996875000000001, test acc: 0.915275
+trial: 4, train acc: 0.9997166666666667, test acc: 0.9151
+Current ratio: 0.6 and current complexity: 35
+trial: 0, train acc: 0.9998333333333334, test acc: 0.845
+trial: 1, train acc: 0.9999166666666667, test acc: 0.8441
+trial: 2, train acc: 0.9998888888888889, test acc: 0.8420666666666666
+trial: 3, train acc: 0.9999166666666667, test acc: 0.8429
+trial: 4, train acc: 0.9999, test acc: 0.84264
+Current ratio: 0.0 and current complexity: 40
+trial: 0, train acc: 1.0, test acc: 0.9498
+trial: 1, train acc: 1.0, test acc: 0.948
+trial: 2, train acc: 0.9999722222222222, test acc: 0.9469333333333333
+trial: 3, train acc: 0.9999791666666666, test acc: 0.947375
+trial: 4, train acc: 0.9999833333333333, test acc: 0.94764
+Current ratio: 0.2 and current complexity: 40
+trial: 0, train acc: 0.9995, test acc: 0.9436
+trial: 1, train acc: 0.9995, test acc: 0.9419
+trial: 2, train acc: 0.9994166666666667, test acc: 0.9420000000000001
+trial: 3, train acc: 0.999375, test acc: 0.9415
+trial: 4, train acc: 0.9993500000000001, test acc: 0.9410000000000001
+Current ratio: 0.4 and current complexity: 40
+trial: 0, train acc: 0.9998333333333334, test acc: 0.9215
+trial: 1, train acc: 0.9998333333333334, test acc: 0.9217500000000001
+trial: 2, train acc: 0.9998333333333335, test acc: 0.9220666666666667
+trial: 3, train acc: 0.9998541666666667, test acc: 0.921175
+trial: 4, train acc: 0.99985, test acc: 0.9206
+Current ratio: 0.6 and current complexity: 40
+trial: 0, train acc: 1.0, test acc: 0.8562
+trial: 1, train acc: 1.0, test acc: 0.8561
+trial: 2, train acc: 0.9999722222222222, test acc: 0.854
+trial: 3, train acc: 0.9999583333333333, test acc: 0.854575
+trial: 4, train acc: 0.9999666666666667, test acc: 0.8536400000000001
+Current ratio: 0.0 and current complexity: 60
+trial: 0, train acc: 1.0, test acc: 0.9525
+trial: 1, train acc: 1.0, test acc: 0.95165
+trial: 2, train acc: 1.0, test acc: 0.9511666666666666
+trial: 3, train acc: 1.0, test acc: 0.950575
+trial: 4, train acc: 1.0, test acc: 0.95052
+Current ratio: 0.2 and current complexity: 60
+trial: 0, train acc: 0.9999166666666667, test acc: 0.9471
+trial: 1, train acc: 0.9998333333333334, test acc: 0.94615
+trial: 2, train acc: 0.9998888888888889, test acc: 0.9466000000000001
+trial: 3, train acc: 0.9999166666666667, test acc: 0.9465000000000001
+trial: 4, train acc: 0.9998833333333333, test acc: 0.9463000000000001
+Current ratio: 0.4 and current complexity: 60
+trial: 0, train acc: 0.9999166666666667, test acc: 0.9344
+trial: 1, train acc: 0.9999583333333333, test acc: 0.93245
+trial: 2, train acc: 0.9999722222222222, test acc: 0.9318666666666666
+trial: 3, train acc: 0.9999583333333333, test acc: 0.93275
+trial: 4, train acc: 0.9999666666666667, test acc: 0.9328
+Current ratio: 0.6 and current complexity: 60
+trial: 0, train acc: 1.0, test acc: 0.8845
+trial: 1, train acc: 1.0, test acc: 0.8861
+trial: 2, train acc: 1.0, test acc: 0.8847666666666667
+trial: 3, train acc: 1.0, test acc: 0.88485
+trial: 4, train acc: 1.0, test acc: 0.8853
+Current ratio: 0.0 and current complexity: 80
+trial: 0, train acc: 1.0, test acc: 0.9526
+trial: 1, train acc: 1.0, test acc: 0.9517
+trial: 2, train acc: 1.0, test acc: 0.9517333333333333
+trial: 3, train acc: 1.0, test acc: 0.951475
+trial: 4, train acc: 1.0, test acc: 0.95136
+Current ratio: 0.2 and current complexity: 80
+trial: 0, train acc: 0.9999166666666667, test acc: 0.95
+trial: 1, train acc: 0.9998750000000001, test acc: 0.94965
+trial: 2, train acc: 0.9998888888888889, test acc: 0.9492666666666666
+trial: 3, train acc: 0.9998958333333333, test acc: 0.94905
+trial: 4, train acc: 0.9999166666666668, test acc: 0.94872
+Current ratio: 0.4 and current complexity: 80
+trial: 0, train acc: 0.9999166666666667, test acc: 0.9389
+trial: 1, train acc: 0.9999583333333333, test acc: 0.9375
+trial: 2, train acc: 0.9999722222222222, test acc: 0.9370333333333334
+trial: 3, train acc: 0.9999791666666666, test acc: 0.9370750000000001
+trial: 4, train acc: 0.9999833333333333, test acc: 0.9372200000000002
+Current ratio: 0.6 and current complexity: 80
+trial: 0, train acc: 1.0, test acc: 0.9035
+trial: 1, train acc: 1.0, test acc: 0.9040999999999999
+trial: 2, train acc: 1.0, test acc: 0.9041333333333332
+trial: 3, train acc: 1.0, test acc: 0.9027249999999999
+trial: 4, train acc: 1.0, test acc: 0.9025199999999998
+Current ratio: 0.0 and current complexity: 100
+trial: 0, train acc: 1.0, test acc: 0.9563
+trial: 1, train acc: 1.0, test acc: 0.95525
+trial: 2, train acc: 1.0, test acc: 0.9552
+trial: 3, train acc: 1.0, test acc: 0.95525
+trial: 4, train acc: 1.0, test acc: 0.9545600000000001
+Current ratio: 0.2 and current complexity: 100
+trial: 0, train acc: 0.9999166666666667, test acc: 0.9503
+trial: 1, train acc: 0.9999583333333333, test acc: 0.9491499999999999
+trial: 2, train acc: 0.9999722222222222, test acc: 0.9499333333333334
+trial: 3, train acc: 0.9999791666666666, test acc: 0.9499500000000001
+trial: 4, train acc: 0.9999833333333333, test acc: 0.9495800000000001
+Current ratio: 0.4 and current complexity: 100
+trial: 0, train acc: 1.0, test acc: 0.941
+trial: 1, train acc: 1.0, test acc: 0.9406
+trial: 2, train acc: 1.0, test acc: 0.9401999999999999
+trial: 3, train acc: 1.0, test acc: 0.941525
+trial: 4, train acc: 1.0, test acc: 0.94116
+Current ratio: 0.6 and current complexity: 100
+trial: 0, train acc: 1.0, test acc: 0.9091
+trial: 1, train acc: 1.0, test acc: 0.9094
+trial: 2, train acc: 1.0, test acc: 0.9078333333333334
+trial: 3, train acc: 1.0, test acc: 0.909475
+trial: 4, train acc: 1.0, test acc: 0.9094200000000001
+--NEW TYPE: Decision Tree--
+Current ratio: 0.0 and current complexity: 5
+trial: 0, train acc: 0.7065, test acc: 0.705
+trial: 1, train acc: 0.7087083333333333, test acc: 0.7015
+trial: 2, train acc: 0.7072777777777777, test acc: 0.6995666666666667
+trial: 3, train acc: 0.7043958333333332, test acc: 0.694675
+trial: 4, train acc: 0.7062833333333332, test acc: 0.6982600000000001
+Current ratio: 0.2 and current complexity: 5
+trial: 0, train acc: 0.5838333333333333, test acc: 0.7044
+trial: 1, train acc: 0.584625, test acc: 0.7001
+trial: 2, train acc: 0.5844999999999999, test acc: 0.6983333333333333
+trial: 3, train acc: 0.583, test acc: 0.6956
+trial: 4, train acc: 0.5870333333333333, test acc: 0.69954
+Current ratio: 0.4 and current complexity: 5
+trial: 0, train acc: 0.459, test acc: 0.6888
+trial: 1, train acc: 0.46570833333333334, test acc: 0.69245
+trial: 2, train acc: 0.46302777777777776, test acc: 0.6854333333333334
+trial: 3, train acc: 0.4630833333333333, test acc: 0.6864750000000001
+trial: 4, train acc: 0.4631833333333333, test acc: 0.6879200000000001
+Current ratio: 0.6 and current complexity: 5
+trial: 0, train acc: 0.3385, test acc: 0.6694
+trial: 1, train acc: 0.34158333333333335, test acc: 0.67005
+trial: 2, train acc: 0.34425, test acc: 0.6721666666666667
+trial: 3, train acc: 0.34520833333333334, test acc: 0.677575
+trial: 4, train acc: 0.3439333333333333, test acc: 0.67286
+Current ratio: 0.0 and current complexity: 10
+trial: 0, train acc: 0.9564166666666667, test acc: 0.8306
+trial: 1, train acc: 0.9562916666666668, test acc: 0.83275
+trial: 2, train acc: 0.9563611111111112, test acc: 0.8344
+trial: 3, train acc: 0.9573541666666667, test acc: 0.833025
+trial: 4, train acc: 0.9581833333333334, test acc: 0.83194
+Current ratio: 0.2 and current complexity: 10
+trial: 0, train acc: 0.8156666666666667, test acc: 0.7745
+trial: 1, train acc: 0.814875, test acc: 0.7804
+trial: 2, train acc: 0.8132222222222222, test acc: 0.7822999999999999
+trial: 3, train acc: 0.8133958333333333, test acc: 0.7812999999999999
+trial: 4, train acc: 0.81335, test acc: 0.7827399999999999
+Current ratio: 0.4 and current complexity: 10
+trial: 0, train acc: 0.67225, test acc: 0.7129
+trial: 1, train acc: 0.6732916666666666, test acc: 0.7188
+trial: 2, train acc: 0.6742222222222223, test acc: 0.7204666666666667
+trial: 3, train acc: 0.6746875000000001, test acc: 0.72155
+trial: 4, train acc: 0.6748500000000001, test acc: 0.7229
+Current ratio: 0.6 and current complexity: 10
+trial: 0, train acc: 0.5465, test acc: 0.6342
+trial: 1, train acc: 0.5455833333333333, test acc: 0.6384
+trial: 2, train acc: 0.5432777777777777, test acc: 0.6428666666666666
+trial: 3, train acc: 0.5420833333333333, test acc: 0.640875
+trial: 4, train acc: 0.5413166666666667, test acc: 0.6367
+Current ratio: 0.0 and current complexity: 15
+trial: 0, train acc: 0.9995, test acc: 0.8314
+trial: 1, train acc: 0.9995, test acc: 0.82875
+trial: 2, train acc: 0.9990555555555556, test acc: 0.8317666666666667
+trial: 3, train acc: 0.99925, test acc: 0.8311499999999999
+trial: 4, train acc: 0.99935, test acc: 0.83036
+Current ratio: 0.2 and current complexity: 15
+trial: 0, train acc: 0.9601666666666666, test acc: 0.6941
+trial: 1, train acc: 0.9564166666666667, test acc: 0.69855
+trial: 2, train acc: 0.9538611111111112, test acc: 0.6995666666666667
+trial: 3, train acc: 0.9548125000000001, test acc: 0.699075
+trial: 4, train acc: 0.9532333333333334, test acc: 0.69886
+Current ratio: 0.4 and current complexity: 15
+trial: 0, train acc: 0.9208333333333333, test acc: 0.5707
+trial: 1, train acc: 0.9099999999999999, test acc: 0.5781000000000001
+trial: 2, train acc: 0.9095, test acc: 0.5803666666666667
+trial: 3, train acc: 0.9066458333333334, test acc: 0.581725
+trial: 4, train acc: 0.9060666666666666, test acc: 0.57954
+Current ratio: 0.6 and current complexity: 15
+trial: 0, train acc: 0.8643333333333333, test acc: 0.4483
+trial: 1, train acc: 0.877375, test acc: 0.43905
+trial: 2, train acc: 0.8692500000000001, test acc: 0.44189999999999996
+trial: 3, train acc: 0.8642291666666667, test acc: 0.45197499999999996
+trial: 4, train acc: 0.8629166666666667, test acc: 0.4547
+Current ratio: 0.0 and current complexity: 20
+trial: 0, train acc: 1.0, test acc: 0.832
+trial: 1, train acc: 1.0, test acc: 0.83145
+trial: 2, train acc: 1.0, test acc: 0.8326666666666668
+trial: 3, train acc: 1.0, test acc: 0.8311250000000001
+trial: 4, train acc: 1.0, test acc: 0.82942
+Current ratio: 0.2 and current complexity: 20
+trial: 0, train acc: 0.99575, test acc: 0.669
+trial: 1, train acc: 0.9968333333333333, test acc: 0.6594
+trial: 2, train acc: 0.9963611111111111, test acc: 0.6623
+trial: 3, train acc: 0.9959791666666666, test acc: 0.6638499999999999
+trial: 4, train acc: 0.9948, test acc: 0.6655
+Current ratio: 0.4 and current complexity: 20
+trial: 0, train acc: 0.9895833333333334, test acc: 0.5116
+trial: 1, train acc: 0.9834166666666666, test acc: 0.5233000000000001
+trial: 2, train acc: 0.9845, test acc: 0.5187
+trial: 3, train acc: 0.9855833333333334, test acc: 0.517525
+trial: 4, train acc: 0.98375, test acc: 0.52062
+Current ratio: 0.6 and current complexity: 20
+trial: 0, train acc: 0.9843333333333333, test acc: 0.3882
+trial: 1, train acc: 0.9768749999999999, test acc: 0.38649999999999995
+trial: 2, train acc: 0.9767777777777779, test acc: 0.3831333333333333
+trial: 3, train acc: 0.9752916666666667, test acc: 0.380525
+trial: 4, train acc: 0.9730000000000001, test acc: 0.38004
+Current ratio: 0.0 and current complexity: 25
+trial: 0, train acc: 1.0, test acc: 0.8287
+trial: 1, train acc: 1.0, test acc: 0.8318
+trial: 2, train acc: 1.0, test acc: 0.8345333333333333
+trial: 3, train acc: 1.0, test acc: 0.833575
+trial: 4, train acc: 1.0, test acc: 0.8321799999999999
+Current ratio: 0.2 and current complexity: 25
+trial: 0, train acc: 1.0, test acc: 0.6671
+trial: 1, train acc: 1.0, test acc: 0.6627000000000001
+trial: 2, train acc: 1.0, test acc: 0.6629
+trial: 3, train acc: 1.0, test acc: 0.662575
+trial: 4, train acc: 1.0, test acc: 0.66238
+Current ratio: 0.4 and current complexity: 25
+trial: 0, train acc: 0.9995, test acc: 0.5056
+trial: 1, train acc: 0.9995, test acc: 0.49965000000000004
+trial: 2, train acc: 0.9995277777777778, test acc: 0.5020000000000001
+trial: 3, train acc: 0.9996458333333333, test acc: 0.50465
+trial: 4, train acc: 0.9984333333333334, test acc: 0.50602
+Current ratio: 0.6 and current complexity: 25
+trial: 0, train acc: 0.9968333333333333, test acc: 0.3627
+trial: 1, train acc: 0.9984166666666667, test acc: 0.36095
+trial: 2, train acc: 0.9970555555555555, test acc: 0.3644
+trial: 3, train acc: 0.9977083333333333, test acc: 0.36367499999999997
+trial: 4, train acc: 0.9980833333333333, test acc: 0.36476
+Current ratio: 0.0 and current complexity: 30
+trial: 0, train acc: 1.0, test acc: 0.8328
+trial: 1, train acc: 1.0, test acc: 0.83195
+trial: 2, train acc: 1.0, test acc: 0.8331666666666666
+trial: 3, train acc: 1.0, test acc: 0.8313999999999999
+trial: 4, train acc: 1.0, test acc: 0.83004
+Current ratio: 0.2 and current complexity: 30
+trial: 0, train acc: 1.0, test acc: 0.6555
+trial: 1, train acc: 1.0, test acc: 0.6595
+trial: 2, train acc: 1.0, test acc: 0.6604333333333333
+trial: 3, train acc: 1.0, test acc: 0.659325
+trial: 4, train acc: 1.0, test acc: 0.6581
+Current ratio: 0.4 and current complexity: 30
+trial: 0, train acc: 1.0, test acc: 0.5065
+trial: 1, train acc: 0.9999166666666667, test acc: 0.5024
+trial: 2, train acc: 0.9999444444444444, test acc: 0.5045999999999999
+trial: 3, train acc: 0.9999583333333333, test acc: 0.505025
+trial: 4, train acc: 0.9999666666666667, test acc: 0.5038799999999999
+Current ratio: 0.6 and current complexity: 30
+trial: 0, train acc: 1.0, test acc: 0.3619
+trial: 1, train acc: 1.0, test acc: 0.3618
+trial: 2, train acc: 1.0, test acc: 0.36169999999999997
+trial: 3, train acc: 1.0, test acc: 0.3604
+trial: 4, train acc: 1.0, test acc: 0.3613
+Current ratio: 0.0 and current complexity: 35
+trial: 0, train acc: 1.0, test acc: 0.8323
+trial: 1, train acc: 1.0, test acc: 0.8308500000000001
+trial: 2, train acc: 1.0, test acc: 0.8328666666666668
+trial: 3, train acc: 1.0, test acc: 0.8314750000000001
+trial: 4, train acc: 1.0, test acc: 0.8299000000000001
+Current ratio: 0.2 and current complexity: 35
+trial: 0, train acc: 1.0, test acc: 0.6601
+trial: 1, train acc: 1.0, test acc: 0.65725
+trial: 2, train acc: 1.0, test acc: 0.6563
+trial: 3, train acc: 1.0, test acc: 0.655975
+trial: 4, train acc: 1.0, test acc: 0.65576
+Current ratio: 0.4 and current complexity: 35
+trial: 0, train acc: 1.0, test acc: 0.5156
+trial: 1, train acc: 1.0, test acc: 0.50425
+trial: 2, train acc: 1.0, test acc: 0.5013333333333333
+trial: 3, train acc: 1.0, test acc: 0.5024500000000001
+trial: 4, train acc: 1.0, test acc: 0.5017600000000001
+Current ratio: 0.6 and current complexity: 35
+trial: 0, train acc: 1.0, test acc: 0.359
+trial: 1, train acc: 1.0, test acc: 0.35865
+trial: 2, train acc: 1.0, test acc: 0.3579333333333334
+trial: 3, train acc: 1.0, test acc: 0.36057500000000003
+trial: 4, train acc: 1.0, test acc: 0.36322
+Current ratio: 0.0 and current complexity: 40
+trial: 0, train acc: 1.0, test acc: 0.8327
+trial: 1, train acc: 1.0, test acc: 0.8309
+trial: 2, train acc: 1.0, test acc: 0.8330333333333333
+trial: 3, train acc: 1.0, test acc: 0.830975
+trial: 4, train acc: 1.0, test acc: 0.82942
+Current ratio: 0.2 and current complexity: 40
+trial: 0, train acc: 1.0, test acc: 0.6622
+trial: 1, train acc: 1.0, test acc: 0.66015
+trial: 2, train acc: 1.0, test acc: 0.6593333333333333
+trial: 3, train acc: 1.0, test acc: 0.6607
+trial: 4, train acc: 1.0, test acc: 0.65976
+Current ratio: 0.4 and current complexity: 40
+trial: 0, train acc: 1.0, test acc: 0.5133
+trial: 1, train acc: 1.0, test acc: 0.51295
+trial: 2, train acc: 1.0, test acc: 0.5078333333333334
+trial: 3, train acc: 1.0, test acc: 0.5084
+trial: 4, train acc: 1.0, test acc: 0.5065
+Current ratio: 0.6 and current complexity: 40
+trial: 0, train acc: 1.0, test acc: 0.3506
+trial: 1, train acc: 1.0, test acc: 0.3597
+trial: 2, train acc: 1.0, test acc: 0.3611
+trial: 3, train acc: 1.0, test acc: 0.36072499999999996
+trial: 4, train acc: 1.0, test acc: 0.36119999999999997
+Current ratio: 0.0 and current complexity: 60
+trial: 0, train acc: 1.0, test acc: 0.8291
+trial: 1, train acc: 1.0, test acc: 0.8291
+trial: 2, train acc: 1.0, test acc: 0.8323
+trial: 3, train acc: 1.0, test acc: 0.83155
+trial: 4, train acc: 1.0, test acc: 0.8307
+Current ratio: 0.2 and current complexity: 60
+trial: 0, train acc: 1.0, test acc: 0.6635
+trial: 1, train acc: 1.0, test acc: 0.66525
+trial: 2, train acc: 1.0, test acc: 0.6619666666666667
+trial: 3, train acc: 1.0, test acc: 0.6581
+trial: 4, train acc: 1.0, test acc: 0.6577
+Current ratio: 0.4 and current complexity: 60
+trial: 0, train acc: 1.0, test acc: 0.5047
+trial: 1, train acc: 1.0, test acc: 0.50255
+trial: 2, train acc: 1.0, test acc: 0.5067
+trial: 3, train acc: 1.0, test acc: 0.5067750000000001
+trial: 4, train acc: 1.0, test acc: 0.5059400000000001
+Current ratio: 0.6 and current complexity: 60
+trial: 0, train acc: 1.0, test acc: 0.3651
+trial: 1, train acc: 1.0, test acc: 0.36165
+trial: 2, train acc: 1.0, test acc: 0.36003333333333337
+trial: 3, train acc: 1.0, test acc: 0.36057500000000003
+trial: 4, train acc: 1.0, test acc: 0.36060000000000003
+Current ratio: 0.0 and current complexity: 80
+trial: 0, train acc: 1.0, test acc: 0.8291
+trial: 1, train acc: 1.0, test acc: 0.8281499999999999
+trial: 2, train acc: 1.0, test acc: 0.8310999999999998
+trial: 3, train acc: 1.0, test acc: 0.829475
+trial: 4, train acc: 1.0, test acc: 0.82912
+Current ratio: 0.2 and current complexity: 80
+trial: 0, train acc: 1.0, test acc: 0.6605
+trial: 1, train acc: 1.0, test acc: 0.6527499999999999
+trial: 2, train acc: 1.0, test acc: 0.6586666666666666
+trial: 3, train acc: 1.0, test acc: 0.6595
+trial: 4, train acc: 1.0, test acc: 0.6577
+Current ratio: 0.4 and current complexity: 80
+trial: 0, train acc: 1.0, test acc: 0.5155
+trial: 1, train acc: 1.0, test acc: 0.50485
+trial: 2, train acc: 1.0, test acc: 0.5065000000000001
+trial: 3, train acc: 1.0, test acc: 0.5081
+trial: 4, train acc: 1.0, test acc: 0.50524
+Current ratio: 0.6 and current complexity: 80
+trial: 0, train acc: 1.0, test acc: 0.3661
+trial: 1, train acc: 1.0, test acc: 0.36419999999999997
+trial: 2, train acc: 1.0, test acc: 0.36436666666666667
+trial: 3, train acc: 1.0, test acc: 0.361925
+trial: 4, train acc: 1.0, test acc: 0.36175999999999997
+Current ratio: 0.0 and current complexity: 100
+trial: 0, train acc: 1.0, test acc: 0.8341
+trial: 1, train acc: 1.0, test acc: 0.8312999999999999
+trial: 2, train acc: 1.0, test acc: 0.8338333333333333
+trial: 3, train acc: 1.0, test acc: 0.833075
+trial: 4, train acc: 1.0, test acc: 0.83124
+Current ratio: 0.2 and current complexity: 100
+trial: 0, train acc: 1.0, test acc: 0.6541
+trial: 1, train acc: 1.0, test acc: 0.6565000000000001
+trial: 2, train acc: 1.0, test acc: 0.6594333333333334
+trial: 3, train acc: 1.0, test acc: 0.6563000000000001
+trial: 4, train acc: 1.0, test acc: 0.6551000000000001
+Current ratio: 0.4 and current complexity: 100
+trial: 0, train acc: 1.0, test acc: 0.5035
+trial: 1, train acc: 1.0, test acc: 0.50645
+trial: 2, train acc: 1.0, test acc: 0.5089333333333333
+trial: 3, train acc: 1.0, test acc: 0.50705
+trial: 4, train acc: 1.0, test acc: 0.50624
+Current ratio: 0.6 and current complexity: 100
+trial: 0, train acc: 1.0, test acc: 0.3617
+trial: 1, train acc: 1.0, test acc: 0.3629
+trial: 2, train acc: 1.0, test acc: 0.3640333333333334
+trial: 3, train acc: 1.0, test acc: 0.362925
+trial: 4, train acc: 1.0, test acc: 0.36172
+--NEW TYPE: KNN--
+Current ratio: 0.0 and current complexity: 5
+trial: 0, train acc: 0.95525, test acc: 0.9469
+trial: 1, train acc: 0.9555, test acc: 0.94635
+trial: 2, train acc: 0.956, test acc: 0.9462666666666667
+trial: 3, train acc: 0.9565416666666666, test acc: 0.9466
+trial: 4, train acc: 0.95685, test acc: 0.94632
+Current ratio: 0.2 and current complexity: 5
+trial: 0, train acc: 0.784, test acc: 0.9422
+trial: 1, train acc: 0.7854583333333334, test acc: 0.9419
+trial: 2, train acc: 0.7860277777777779, test acc: 0.9419333333333334
+trial: 3, train acc: 0.7859166666666667, test acc: 0.942575
+trial: 4, train acc: 0.7865833333333334, test acc: 0.9429000000000001
+Current ratio: 0.4 and current complexity: 5
+trial: 0, train acc: 0.6139166666666667, test acc: 0.9278
+trial: 1, train acc: 0.6157916666666667, test acc: 0.9271499999999999
+trial: 2, train acc: 0.6154722222222223, test acc: 0.9270333333333333
+trial: 3, train acc: 0.6151666666666666, test acc: 0.9274249999999999
+trial: 4, train acc: 0.6151333333333333, test acc: 0.92716
+Current ratio: 0.6 and current complexity: 5
+trial: 0, train acc: 0.455, test acc: 0.8267
+trial: 1, train acc: 0.4535, test acc: 0.82345
+trial: 2, train acc: 0.45469444444444446, test acc: 0.824
+trial: 3, train acc: 0.45339583333333333, test acc: 0.825375
+trial: 4, train acc: 0.4532166666666667, test acc: 0.8254400000000001
+KNN only has one parameter, no complexity
+Current ratio: 0.0 and current complexity: 10
+trial: 0, train acc: 0.95525, test acc: 0.9469
+trial: 1, train acc: 0.9555, test acc: 0.94635
+trial: 2, train acc: 0.956, test acc: 0.9462666666666667
+trial: 3, train acc: 0.9565416666666666, test acc: 0.9466
+trial: 4, train acc: 0.95685, test acc: 0.94632
+Current ratio: 0.2 and current complexity: 10
+trial: 0, train acc: 0.7858333333333334, test acc: 0.9422
+trial: 1, train acc: 0.7845, test acc: 0.94245
+trial: 2, train acc: 0.7854722222222222, test acc: 0.9423666666666667
+trial: 3, train acc: 0.7852708333333334, test acc: 0.9429000000000001
+trial: 4, train acc: 0.7852333333333334, test acc: 0.9429000000000001
+Current ratio: 0.4 and current complexity: 10
+trial: 0, train acc: 0.61475, test acc: 0.9261
+trial: 1, train acc: 0.6147916666666666, test acc: 0.9261
+trial: 2, train acc: 0.614, test acc: 0.9257666666666667
+trial: 3, train acc: 0.6148958333333334, test acc: 0.9263000000000001
+trial: 4, train acc: 0.6153166666666667, test acc: 0.9258200000000001
+Current ratio: 0.6 and current complexity: 10
+trial: 0, train acc: 0.4545, test acc: 0.8224
+trial: 1, train acc: 0.455625, test acc: 0.8195
+trial: 2, train acc: 0.4551111111111111, test acc: 0.8208333333333333
+trial: 3, train acc: 0.45379166666666665, test acc: 0.8226
+trial: 4, train acc: 0.4539833333333333, test acc: 0.82326
+KNN only has one parameter, no complexity
+Current ratio: 0.0 and current complexity: 15
+trial: 0, train acc: 0.95525, test acc: 0.9469
+trial: 1, train acc: 0.9555, test acc: 0.94635
+trial: 2, train acc: 0.956, test acc: 0.9462666666666667
+trial: 3, train acc: 0.9565416666666666, test acc: 0.9466
+trial: 4, train acc: 0.95685, test acc: 0.94632
+Current ratio: 0.2 and current complexity: 15
+trial: 0, train acc: 0.7828333333333334, test acc: 0.9413
+trial: 1, train acc: 0.78325, test acc: 0.9425
+trial: 2, train acc: 0.7841944444444445, test acc: 0.9430333333333333
+trial: 3, train acc: 0.7843333333333333, test acc: 0.943175
+trial: 4, train acc: 0.78465, test acc: 0.9431799999999999
+Current ratio: 0.4 and current complexity: 15
+trial: 0, train acc: 0.6173333333333333, test acc: 0.9269
+trial: 1, train acc: 0.6174999999999999, test acc: 0.9259
+trial: 2, train acc: 0.6160555555555555, test acc: 0.9253666666666667
+trial: 3, train acc: 0.6163958333333333, test acc: 0.925475
+trial: 4, train acc: 0.61595, test acc: 0.9256
+Current ratio: 0.6 and current complexity: 15
+trial: 0, train acc: 0.45825, test acc: 0.8201
+trial: 1, train acc: 0.4564583333333333, test acc: 0.82225
+trial: 2, train acc: 0.45394444444444443, test acc: 0.8188333333333334
+trial: 3, train acc: 0.45422916666666663, test acc: 0.8224250000000001
+trial: 4, train acc: 0.4530166666666666, test acc: 0.8226000000000001
+KNN only has one parameter, no complexity
+Current ratio: 0.0 and current complexity: 20
+trial: 0, train acc: 0.95525, test acc: 0.9469
+trial: 1, train acc: 0.9555, test acc: 0.94635
+trial: 2, train acc: 0.956, test acc: 0.9462666666666667
+trial: 3, train acc: 0.9565416666666666, test acc: 0.9466
+trial: 4, train acc: 0.95685, test acc: 0.94632
+Current ratio: 0.2 and current complexity: 20
+trial: 0, train acc: 0.7870833333333334, test acc: 0.9432
+trial: 1, train acc: 0.7850833333333334, test acc: 0.94335
+trial: 2, train acc: 0.7861944444444444, test acc: 0.9429
+trial: 3, train acc: 0.7860416666666666, test acc: 0.9432
+trial: 4, train acc: 0.7860666666666667, test acc: 0.9434000000000001
+Current ratio: 0.4 and current complexity: 20
+trial: 0, train acc: 0.6126666666666667, test acc: 0.9225
+trial: 1, train acc: 0.6135416666666667, test acc: 0.9239999999999999
+trial: 2, train acc: 0.6148611111111112, test acc: 0.9251999999999999
+trial: 3, train acc: 0.61475, test acc: 0.9254249999999999
+trial: 4, train acc: 0.61545, test acc: 0.9255599999999999
+Current ratio: 0.6 and current complexity: 20
+trial: 0, train acc: 0.45575, test acc: 0.8188
+trial: 1, train acc: 0.4532083333333333, test acc: 0.81955
+trial: 2, train acc: 0.45225, test acc: 0.8213666666666667
+trial: 3, train acc: 0.45229166666666665, test acc: 0.8229000000000001
+trial: 4, train acc: 0.45216666666666666, test acc: 0.8221400000000001
+KNN only has one parameter, no complexity
+Current ratio: 0.0 and current complexity: 25
+trial: 0, train acc: 0.95525, test acc: 0.9469
+trial: 1, train acc: 0.9555, test acc: 0.94635
+trial: 2, train acc: 0.956, test acc: 0.9462666666666667
+trial: 3, train acc: 0.9565416666666666, test acc: 0.9466
+trial: 4, train acc: 0.95685, test acc: 0.94632
+Current ratio: 0.2 and current complexity: 25
+trial: 0, train acc: 0.7838333333333334, test acc: 0.9411
+trial: 1, train acc: 0.7838750000000001, test acc: 0.9419
+trial: 2, train acc: 0.7848611111111112, test acc: 0.9421666666666666
+trial: 3, train acc: 0.7849791666666668, test acc: 0.94255
+trial: 4, train acc: 0.7853500000000001, test acc: 0.94278
+Current ratio: 0.4 and current complexity: 25
+trial: 0, train acc: 0.6115, test acc: 0.926
+trial: 1, train acc: 0.6140833333333333, test acc: 0.9256500000000001
+trial: 2, train acc: 0.6137222222222222, test acc: 0.9256666666666667
+trial: 3, train acc: 0.614, test acc: 0.925975
+trial: 4, train acc: 0.6142, test acc: 0.92608
+Current ratio: 0.6 and current complexity: 25
+trial: 0, train acc: 0.4535, test acc: 0.8211
+trial: 1, train acc: 0.4547083333333334, test acc: 0.8218000000000001
+trial: 2, train acc: 0.4541944444444445, test acc: 0.8228666666666667
+trial: 3, train acc: 0.4540416666666667, test acc: 0.8238000000000001
+trial: 4, train acc: 0.45458333333333334, test acc: 0.82186
+KNN only has one parameter, no complexity
+Current ratio: 0.0 and current complexity: 30
+trial: 0, train acc: 0.95525, test acc: 0.9469
+trial: 1, train acc: 0.9555, test acc: 0.94635
+trial: 2, train acc: 0.956, test acc: 0.9462666666666667
+trial: 3, train acc: 0.9565416666666666, test acc: 0.9466
+trial: 4, train acc: 0.95685, test acc: 0.94632
+Current ratio: 0.2 and current complexity: 30
+trial: 0, train acc: 0.7854166666666667, test acc: 0.9423
+trial: 1, train acc: 0.7845, test acc: 0.9422
+trial: 2, train acc: 0.7851388888888889, test acc: 0.9424
+trial: 3, train acc: 0.7854791666666667, test acc: 0.942625
+trial: 4, train acc: 0.7856333333333334, test acc: 0.94268
+Current ratio: 0.4 and current complexity: 30
+trial: 0, train acc: 0.61475, test acc: 0.9272
+trial: 1, train acc: 0.61575, test acc: 0.9257
+trial: 2, train acc: 0.6155833333333334, test acc: 0.9260666666666667
+trial: 3, train acc: 0.6160416666666667, test acc: 0.926125
+trial: 4, train acc: 0.6168666666666667, test acc: 0.9260999999999999
+Current ratio: 0.6 and current complexity: 30
+trial: 0, train acc: 0.4518333333333333, test acc: 0.8191
+trial: 1, train acc: 0.4520416666666667, test acc: 0.8189500000000001
+trial: 2, train acc: 0.4513888888888889, test acc: 0.8179666666666666
+trial: 3, train acc: 0.45258333333333334, test acc: 0.82125
+trial: 4, train acc: 0.45244999999999996, test acc: 0.82118
+KNN only has one parameter, no complexity
+Current ratio: 0.0 and current complexity: 35
+trial: 0, train acc: 0.95525, test acc: 0.9469
+trial: 1, train acc: 0.9555, test acc: 0.94635
+trial: 2, train acc: 0.956, test acc: 0.9462666666666667
+trial: 3, train acc: 0.9565416666666666, test acc: 0.9466
+trial: 4, train acc: 0.95685, test acc: 0.94632
+Current ratio: 0.2 and current complexity: 35
+trial: 0, train acc: 0.7845833333333333, test acc: 0.9414
+trial: 1, train acc: 0.7844166666666667, test acc: 0.9419
+trial: 2, train acc: 0.7850555555555555, test acc: 0.9425333333333333
+trial: 3, train acc: 0.7857916666666667, test acc: 0.9430499999999999
+trial: 4, train acc: 0.7859333333333334, test acc: 0.94322
+Current ratio: 0.4 and current complexity: 35
+trial: 0, train acc: 0.6141666666666666, test acc: 0.9265
+trial: 1, train acc: 0.6134166666666667, test acc: 0.92465
+trial: 2, train acc: 0.6135833333333334, test acc: 0.9240666666666666
+trial: 3, train acc: 0.613, test acc: 0.92475
+trial: 4, train acc: 0.6138166666666667, test acc: 0.9244999999999999
+Current ratio: 0.6 and current complexity: 35
+trial: 0, train acc: 0.45108333333333334, test acc: 0.8241
+trial: 1, train acc: 0.4522083333333333, test acc: 0.82565
+trial: 2, train acc: 0.4530277777777778, test acc: 0.8264999999999999
+trial: 3, train acc: 0.45183333333333336, test acc: 0.82775
+trial: 4, train acc: 0.4522666666666667, test acc: 0.8285
+KNN only has one parameter, no complexity
+Current ratio: 0.0 and current complexity: 40
+trial: 0, train acc: 0.95525, test acc: 0.9469
+trial: 1, train acc: 0.9555, test acc: 0.94635
+trial: 2, train acc: 0.956, test acc: 0.9462666666666667
+trial: 3, train acc: 0.9565416666666666, test acc: 0.9466
+trial: 4, train acc: 0.95685, test acc: 0.94632
+Current ratio: 0.2 and current complexity: 40
+trial: 0, train acc: 0.7869166666666667, test acc: 0.9429
+trial: 1, train acc: 0.7857916666666667, test acc: 0.9433
+trial: 2, train acc: 0.7868611111111111, test acc: 0.9433000000000001
+trial: 3, train acc: 0.7866875, test acc: 0.9434500000000001
+trial: 4, train acc: 0.7863666666666667, test acc: 0.94366
+Current ratio: 0.4 and current complexity: 40
+trial: 0, train acc: 0.6148333333333333, test acc: 0.9264
+trial: 1, train acc: 0.61425, test acc: 0.92635
+trial: 2, train acc: 0.6163333333333333, test acc: 0.9258000000000001
+trial: 3, train acc: 0.6162916666666667, test acc: 0.926475
+trial: 4, train acc: 0.6160666666666667, test acc: 0.92628
+Current ratio: 0.6 and current complexity: 40
+trial: 0, train acc: 0.4548333333333333, test acc: 0.8242
+trial: 1, train acc: 0.45595833333333335, test acc: 0.82375
+trial: 2, train acc: 0.4553611111111111, test acc: 0.8220666666666666
+trial: 3, train acc: 0.45475, test acc: 0.8224499999999999
+trial: 4, train acc: 0.4551833333333334, test acc: 0.8234
+KNN only has one parameter, no complexity
+Current ratio: 0.0 and current complexity: 60
+trial: 0, train acc: 0.95525, test acc: 0.9469
+trial: 1, train acc: 0.9555, test acc: 0.94635
+trial: 2, train acc: 0.956, test acc: 0.9462666666666667
+trial: 3, train acc: 0.9565416666666666, test acc: 0.9466
+trial: 4, train acc: 0.95685, test acc: 0.94632
+Current ratio: 0.2 and current complexity: 60
+trial: 0, train acc: 0.7854166666666667, test acc: 0.9422
+trial: 1, train acc: 0.7847500000000001, test acc: 0.9424
+trial: 2, train acc: 0.7846944444444445, test acc: 0.9426666666666668
+trial: 3, train acc: 0.7847708333333334, test acc: 0.9426000000000001
+trial: 4, train acc: 0.7856500000000001, test acc: 0.9429400000000001
+Current ratio: 0.4 and current complexity: 60
+trial: 0, train acc: 0.6154166666666666, test acc: 0.9258
+trial: 1, train acc: 0.615375, test acc: 0.9252499999999999
+trial: 2, train acc: 0.6145, test acc: 0.9254666666666665
+trial: 3, train acc: 0.6135208333333334, test acc: 0.9251999999999999
+trial: 4, train acc: 0.6139, test acc: 0.9251999999999999
+Current ratio: 0.6 and current complexity: 60
+trial: 0, train acc: 0.4553333333333333, test acc: 0.8247
+trial: 1, train acc: 0.45258333333333334, test acc: 0.8230500000000001
+trial: 2, train acc: 0.4517222222222222, test acc: 0.8251333333333334
+trial: 3, train acc: 0.45091666666666663, test acc: 0.825075
+trial: 4, train acc: 0.4521333333333333, test acc: 0.8261800000000001
+KNN only has one parameter, no complexity
+Current ratio: 0.0 and current complexity: 80
+trial: 0, train acc: 0.95525, test acc: 0.9469
+trial: 1, train acc: 0.9555, test acc: 0.94635
+trial: 2, train acc: 0.956, test acc: 0.9462666666666667
+trial: 3, train acc: 0.9565416666666666, test acc: 0.9466
+trial: 4, train acc: 0.95685, test acc: 0.94632
+Current ratio: 0.2 and current complexity: 80
+trial: 0, train acc: 0.7841666666666667, test acc: 0.9424
+trial: 1, train acc: 0.7842083333333334, test acc: 0.94295
+trial: 2, train acc: 0.7857500000000001, test acc: 0.9426666666666667
+trial: 3, train acc: 0.7860208333333334, test acc: 0.9428749999999999
+trial: 4, train acc: 0.7858833333333334, test acc: 0.943
+Current ratio: 0.4 and current complexity: 80
+trial: 0, train acc: 0.61875, test acc: 0.9275
+trial: 1, train acc: 0.6154583333333333, test acc: 0.9270499999999999
+trial: 2, train acc: 0.6158055555555556, test acc: 0.9269
+trial: 3, train acc: 0.6157083333333333, test acc: 0.926825
+trial: 4, train acc: 0.6155666666666667, test acc: 0.92642
+Current ratio: 0.6 and current complexity: 80
+trial: 0, train acc: 0.45658333333333334, test acc: 0.8295
+trial: 1, train acc: 0.4544583333333333, test acc: 0.82535
+trial: 2, train acc: 0.45269444444444445, test acc: 0.8242666666666668
+trial: 3, train acc: 0.45216666666666666, test acc: 0.8243250000000001
+trial: 4, train acc: 0.4524166666666667, test acc: 0.8242
+KNN only has one parameter, no complexity
+Current ratio: 0.0 and current complexity: 100
+trial: 0, train acc: 0.95525, test acc: 0.9469
+trial: 1, train acc: 0.9555, test acc: 0.94635
+trial: 2, train acc: 0.956, test acc: 0.9462666666666667
+trial: 3, train acc: 0.9565416666666666, test acc: 0.9466
+trial: 4, train acc: 0.95685, test acc: 0.94632
+Current ratio: 0.2 and current complexity: 100
+trial: 0, train acc: 0.7884166666666667, test acc: 0.9421
+trial: 1, train acc: 0.7872083333333333, test acc: 0.94245
+trial: 2, train acc: 0.7870833333333334, test acc: 0.9424333333333333
+trial: 3, train acc: 0.7863125, test acc: 0.942775
+trial: 4, train acc: 0.7857, test acc: 0.94302
+Current ratio: 0.4 and current complexity: 100
+trial: 0, train acc: 0.6166666666666667, test acc: 0.9249
+trial: 1, train acc: 0.6165833333333334, test acc: 0.9245000000000001
+trial: 2, train acc: 0.6170277777777778, test acc: 0.9251333333333335
+trial: 3, train acc: 0.6163125, test acc: 0.9251
+trial: 4, train acc: 0.6164333333333334, test acc: 0.92512
+Current ratio: 0.6 and current complexity: 100
+trial: 0, train acc: 0.45316666666666666, test acc: 0.8256
+trial: 1, train acc: 0.45166666666666666, test acc: 0.82395
+trial: 2, train acc: 0.4527222222222222, test acc: 0.8220333333333333
+trial: 3, train acc: 0.45360416666666664, test acc: 0.8232999999999999
+trial: 4, train acc: 0.45389999999999997, test acc: 0.8232999999999999
+KNN only has one parameter, no complexity
+Program finished
+
